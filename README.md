@@ -7,6 +7,18 @@ This project analyzes sales data to generate actionable insights for decision-ma
 
 ---
 
+
+## Business Use Case
+Analyze food donation and distribution data to optimize allocation and reduce food wastage.
+
+
+## Key Analysis
+- Identified high-demand locations
+- Tracked provider vs receiver trends
+- Optimized food distribution patterns
+
+---
+
 ## Tech Stack
 
 * Python (Pandas)
@@ -65,3 +77,4 @@ This project analyzes sales data to generate actionable insights for decision-ma
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
