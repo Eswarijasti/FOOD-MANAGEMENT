@@ -40,12 +40,10 @@ Analyze food donation and distribution data to optimize allocation and reduce fo
 1. Data cleaning and preprocessing using Python
 2. Created structured tables in MySQL
 3. Wrote SQL queries using:
-
    * JOIN
    * GROUP BY
    * Aggregations
-4. Built Power BI dashboard for KPI tracking
-5. Developed Streamlit app for interactive analysis
+4. Developed Streamlit app for interactive analysis
 
 ---
 
@@ -65,11 +63,6 @@ Analyze food donation and distribution data to optimize allocation and reduce fo
 
 ---
 
-## Screenshots
-
-(Add Power BI dashboard + Streamlit images here)
-
----
 
 ## How to Run
 
